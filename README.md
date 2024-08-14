@@ -20,6 +20,6 @@ A simple Python-based network sniffer that captures and analyzes network traffic
     2. Navigate to the project directory:</br>
       cd Basic-Network-Sniffer</br>
     3. Install the required Python packages:</br>
-      pip install -r requirements.txt</br>
+      pip install scapy</br>
     4. Run the application:</br>
       python sniffer.py</br>
